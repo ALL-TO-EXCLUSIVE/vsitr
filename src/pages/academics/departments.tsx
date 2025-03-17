@@ -7,19 +7,19 @@ const Departments = () => {
   return (
     <PageLayout 
       title="Academic Departments" 
-      description="Learn about VSITR's academic departments and their specializations."
+      description="Learn about the various academic departments at VSITR and their specializations."
     >
       <PageHeader 
         title="Academic Departments"
-        subtitle="Specialized departments focusing on various disciplines"
-        backgroundImage="https://images.unsplash.com/photo-1568992687947-868a62a9f521?q=80&w=2064&auto=format&fit=crop"
+        subtitle="Specialized departments fostering excellence in different disciplines"
+        backgroundImage="https://images.unsplash.com/photo-1517502566056-6b1b84b0a55b?q=80&w=2070&auto=format&fit=crop"
       />
       
       <section className="py-12 md:py-20">
         <div className="container mx-auto px-4">
           <SectionHeading
             title="Our Departments"
-            description="Explore our academic departments and their areas of expertise"
+            description="Explore our specialized academic departments"
           />
           
           <div className="mt-12 space-y-6 text-center">

@@ -11,20 +11,20 @@ const StudentLogin = () => {
     >
       <PageHeader 
         title="Student Login"
-        subtitle="Access your academic portal"
-        backgroundImage="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop"
+        subtitle="Access your student portal"
+        backgroundImage="https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?q=80&w=2070&auto=format&fit=crop"
       />
       
       <section className="py-12 md:py-20">
         <div className="container mx-auto px-4">
           <SectionHeading
-            title="Login to Student Portal"
-            description="Access your courses, assignments, and resources"
+            title="Student Portal"
+            description="Access your academic resources and information"
           />
           
           <div className="mt-12 space-y-6 text-center">
             <p className="text-lg text-muted-foreground">
-              Login form coming soon. This page is under construction.
+              Student login page coming soon. This page is under construction.
             </p>
           </div>
         </div>

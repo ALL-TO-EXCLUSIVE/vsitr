@@ -11,15 +11,15 @@ const Facilities = () => {
     >
       <PageHeader 
         title="Campus Facilities"
-        subtitle="Modern infrastructure supporting student life"
-        backgroundImage="https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?q=80&w=2070&auto=format&fit=crop"
+        subtitle="State-of-the-art amenities for a comfortable student life"
+        backgroundImage="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop"
       />
       
       <section className="py-12 md:py-20">
         <div className="container mx-auto px-4">
           <SectionHeading
             title="Our Facilities"
-            description="Amenities that enhance the campus experience"
+            description="Modern infrastructure supporting student needs"
           />
           
           <div className="mt-12 space-y-6 text-center">

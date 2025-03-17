@@ -6,25 +6,25 @@ import { SectionHeading } from "@/components/ui/section-heading";
 const Clubs = () => {
   return (
     <PageLayout 
-      title="Student Clubs" 
-      description="Explore the diverse student clubs and organizations at VSITR."
+      title="Clubs & Societies" 
+      description="Explore the diverse student clubs and societies at VSITR."
     >
       <PageHeader 
-        title="Student Clubs & Organizations"
-        subtitle="Pursuing passions beyond academics"
-        backgroundImage="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2072&auto=format&fit=crop"
+        title="Clubs & Societies"
+        subtitle="Pursue your passions and develop new skills"
+        backgroundImage="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?q=80&w=2069&auto=format&fit=crop"
       />
       
       <section className="py-12 md:py-20">
         <div className="container mx-auto px-4">
           <SectionHeading
-            title="Our Clubs"
-            description="Student-led organizations for every interest"
+            title="Student Clubs"
+            description="Join a community that shares your interests"
           />
           
           <div className="mt-12 space-y-6 text-center">
             <p className="text-lg text-muted-foreground">
-              Club information coming soon. This page is under construction.
+              Clubs details coming soon. This page is under construction.
             </p>
           </div>
         </div>

@@ -7,24 +7,24 @@ const Programs = () => {
   return (
     <PageLayout 
       title="Academic Programs" 
-      description="Explore VSITR's undergraduate and postgraduate programs in technology and management."
+      description="Explore the various undergraduate and postgraduate programs offered at VSITR."
     >
       <PageHeader 
         title="Academic Programs"
-        subtitle="Comprehensive educational programs designed for future leaders"
-        backgroundImage="https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=2070&auto=format&fit=crop"
+        subtitle="Comprehensive programs designed for future innovators"
+        backgroundImage="https://images.unsplash.com/photo-1606761568499-6d2451b23c66?q=80&w=1974&auto=format&fit=crop"
       />
       
       <section className="py-12 md:py-20">
         <div className="container mx-auto px-4">
           <SectionHeading
-            title="Our Programs"
-            description="Explore our diverse range of academic programs"
+            title="Our Educational Offerings"
+            description="Diverse programs to prepare you for a successful career"
           />
           
           <div className="mt-12 space-y-6 text-center">
             <p className="text-lg text-muted-foreground">
-              Program details coming soon. This page is under construction.
+              Programs details coming soon. This page is under construction.
             </p>
           </div>
         </div>

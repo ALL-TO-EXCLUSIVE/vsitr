@@ -7,19 +7,19 @@ const Placements = () => {
   return (
     <PageLayout 
       title="Placements" 
-      description="Explore career opportunities and placement services at VSITR."
+      description="Learn about career opportunities and placement services at VSITR."
     >
       <PageHeader 
-        title="Placements & Career Services"
-        subtitle="Preparing students for successful careers"
+        title="Placements"
+        subtitle="Building successful careers for our students"
         backgroundImage="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=2069&auto=format&fit=crop"
       />
       
       <section className="py-12 md:py-20">
         <div className="container mx-auto px-4">
           <SectionHeading
-            title="Placement Cell"
-            description="Your gateway to career opportunities"
+            title="Career Opportunities"
+            description="Launching students into successful professional careers"
           />
           
           <div className="mt-12 space-y-6 text-center">
